@@ -25,7 +25,12 @@ In this project, I use **K-Means clustering** to identify meaningful customer gr
 
 # Dataset
 
-**Source:** https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+This project uses the publicly available **Mall Customer Segmentation Dataset** from Kaggle.
+
+For licensing reasons, the dataset is **not included** in this repository. Please download it from the link below and place `Mall_Customers.csv` inside the `data/` folder.
+
+Dataset:
+https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 The dataset contains information about **200 mall customers**.
 
